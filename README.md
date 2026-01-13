@@ -1,20 +1,52 @@
-```md
-# ¡Hola! Soy AndreaDAT 👋
+# ¡Hola! Soy Andrea 👋📊  
 
-Soy desarrolladora de software enfocada en backend y cloud. Me apasiona diseñar sistemas escalables, optimizar rendimiento y contribuir a proyectos open source.
+Soy **estudiante de Administración de Empresas** con un fuerte interés en el **Análisis de Datos aplicado a la toma de decisiones empresariales**.  
+Me gusta transformar datos en **insights claros, accionables y visuales**, apoyando áreas como ventas, finanzas, clientes y operaciones.
 
-- 🔭 Actualmente trabajando en: Proyecto X
-- 🌱 Aprendiendo: Kubernetes, Observabilidad
-- 💬 Me interesa: backend, DevOps, arquitectura distribuida
-- 📫 Contáctame: tu-email@example.com
-- ⚡ Dato curioso: Me encanta el café y el senderismo
+Actualmente estoy construyendo un **portafolio de dashboards** donde combino visión de negocio con herramientas analíticas.
 
-## Tecnologías
-Python · Go · Docker · Kubernetes · AWS · SQL · Git
+---
 
-## Proyectos destacados
-- **ProyectoA** — breve descripción (https://github.com/AndreaDAT/ProyectoA)
-- **ProyectoB** — breve descripción (https://github.com/AndreaDAT/ProyectoB)
+## 🎯 Enfoque profesional
+- Análisis de datos para **ventas, rentabilidad y gestión empresarial**
+- Creación de **dashboards interactivos y ejecutivos**
+- Interpretación de datos para apoyar decisiones estratégicas
 
-¡Gracias por pasar a ver mi perfil!
-```
+---
+
+## 🛠️ Herramientas & Tecnologías
+- **Power BI** (modelado, DAX, visualización)
+- **Excel avanzado** (tablas dinámicas, Power Query, dashboards)
+- **SQL básico** (consultas, agregaciones, limpieza de datos)
+- Git & GitHub (documentación y portafolio)
+
+---
+
+## 📊 Proyectos destacados
+- **Análisis de Ventas Retail**  
+  Dashboard en Excel y Power BI enfocado en KPIs comerciales, análisis semanal y productos más rentables.
+
+- **Análisis de Clientes**  
+  Segmentación de clientes, frecuencia de compra y aportes a ingresos.
+
+- **Finanzas y Rentabilidad**  
+  Control de ingresos, costos y márgenes para evaluación financiera.
+
+*(Todos los proyectos incluyen contexto de negocio, visualizaciones y recomendaciones.)*
+
+---
+
+## 🌱 Actualmente aprendiendo
+- Modelado de datos en Power BI  
+- SQL para análisis de negocio  
+- Storytelling con datos
+
+---
+
+## 📫 Contacto
+- LinkedIn: *(agrega tu link aquí)*
+- Email: *(opcional)*
+
+---
+
+⚡ **Dato extra:** Creo firmemente que los datos bien analizados cuentan historias que mejoran las decisiones empresariales.
