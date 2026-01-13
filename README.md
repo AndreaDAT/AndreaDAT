@@ -44,8 +44,8 @@ Actualmente estoy construyendo un **portafolio de dashboards** donde combino vis
 ---
 
 ## 📫 Contacto
-- LinkedIn: *(agrega tu link aquí)*
-- Email: *(opcional)*
+- LinkedIn: *www.linkedin.com/in/andrea-sanabria-64594923a)*
+- Email: *andreajuliet0987@gmail.com*
 
 ---
 
