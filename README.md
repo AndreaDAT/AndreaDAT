@@ -1,16 +1,20 @@
-## Hi there 👋
+```md
+# ¡Hola! Soy AndreaDAT 👋
 
-<!--
-**AndreaDAT/AndreaDAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora de software enfocada en backend y cloud. Me apasiona diseñar sistemas escalables, optimizar rendimiento y contribuir a proyectos open source.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: Proyecto X
+- 🌱 Aprendiendo: Kubernetes, Observabilidad
+- 💬 Me interesa: backend, DevOps, arquitectura distribuida
+- 📫 Contáctame: tu-email@example.com
+- ⚡ Dato curioso: Me encanta el café y el senderismo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+Python · Go · Docker · Kubernetes · AWS · SQL · Git
+
+## Proyectos destacados
+- **ProyectoA** — breve descripción (https://github.com/AndreaDAT/ProyectoA)
+- **ProyectoB** — breve descripción (https://github.com/AndreaDAT/ProyectoB)
+
+¡Gracias por pasar a ver mi perfil!
+```
