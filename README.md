@@ -1,4 +1,4 @@
-# ¡Hola! Soy Andrea 👋📊  
+# ¡Hola! Soy Andrea 👋 
 
 Soy **estudiante de Administración de Empresas** con un fuerte interés en el **Análisis de Datos aplicado a la toma de decisiones empresariales**.  
 Me gusta transformar datos en **insights claros, accionables y visuales**, apoyando áreas como ventas, finanzas, clientes y operaciones.
